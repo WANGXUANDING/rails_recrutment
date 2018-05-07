@@ -33,7 +33,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem "simple_form"
 gem 'font-awesome-sass'
-
+gem 'carrierwave', '~> 0.9'
 
 
 group :development, :test do
